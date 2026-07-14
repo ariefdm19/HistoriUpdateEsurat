@@ -1,4 +1,12 @@
 ----------------------------------------------
+14 JULI 2026 (V4)
+- Perubahan Struktur Database Menjadi Konsolidasi
+- Perubahan Tampilan Desain Secara Keseluruhan
+- Penambahan Dashboard
+- Optimasi Data Menjadi Lebih Cepat
+- Perbaikan Bugs
+
+----------------------------------------------
 02 JANUARI 2024 (V3)
 - Perubahan Pada Menu Surat Keluar
 - Kolom Nomor Surat Otomatis terisi jadi tidak di input manual
